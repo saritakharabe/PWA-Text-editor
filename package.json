@@ -11,22 +11,14 @@
     "install": "cd server && npm i && cd ../client && npm i",
     "client": "cd client && npm start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/saritakharabe/PWA-Text-editor.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/saritakharabe/PWA-Text-editor/issues"
-  },
-  "homepage": "https://github.com/saritakharabe/PWA-Text-editor#readme",
   "dependencies": {
     "express": "^4.18.2",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
-    "concurrently": "^8.0.1"
+    "concurrently": "^5.2.0"
   }
 }
