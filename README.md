@@ -16,4 +16,4 @@ This is a text editor application that users have the ability to be installed on
 ![image](./images/text.png)
 
 ## Deployment link
-![deployment Link](https://fierce-falls-40994.herokuapp.com/)
+[deployment Link](https://fierce-falls-40994.herokuapp.com/)
