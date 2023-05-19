@@ -8,7 +8,12 @@ To build this text editor, you will start with an existing application and imple
 
 You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
 
+## Description
+
+This is a text editor application that users have the ability to be installed onto the users desktop. Working as a PWA and offline functionality.
+
 ## Screenshot
 ![image](./images/text.png)
 
 ## Deployment link
+![deployment Link](https://fierce-falls-40994.herokuapp.com/)
